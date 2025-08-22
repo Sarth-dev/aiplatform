@@ -34,8 +34,8 @@ Chosen Features:
 ## Design
 
 Figma/XD Mockup:  
-[Mockup Screenshot/Link here]  
-(Attach your exported Figma/XD wireframe, or paste a screenshot.)
+![Rough design](https://github.com/user-attachments/assets/1504fbd9-f846-4f97-80d4-92df79c333b5)
+
 
 - Spacing, Typography, Colors:  
   Used Tailwind’s spacing tokens for padding/margin (`p-6`, `space-y-6`).  
@@ -102,13 +102,11 @@ Component Library & Storybook:
 
 ## Assets
 
-- Figma/XD mockup screenshot: `/public/mockup.png`
 - Sample chat JSON: Downloadable from chat area.
 
 --
 ## Notes
 
-- All requirements met as per the assessment brief.
 - Please contact me if you have questions or need clarifications.
 
 ---
