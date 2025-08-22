@@ -86,8 +86,7 @@ Component Library & Storybook:
 
 ## Deployment
 
-- Live Demo: [Your Vercel/Netlify link here]
-- GitHub Repo: [Your GitHub repo link here]
+- Live Demo: (https://aiplatform-sand.vercel.app)
 
 ---
 
